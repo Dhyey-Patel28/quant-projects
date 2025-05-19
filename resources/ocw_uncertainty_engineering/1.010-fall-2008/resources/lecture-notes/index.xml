@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brief Notes #1</title>
+      <link>/resources/notes_01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_01/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on uncertainty in engineering, events, and their probability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #2</title>
+      <link>/resources/notes_02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_02/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on random variables and discrete distributions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #3</title>
+      <link>/resources/notes_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_03/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on random variables and continuous distributions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #4</title>
+      <link>/resources/notes_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_04/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on discrete random vectors, continuous random vectors, and independent random variables.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #5</title>
+      <link>/resources/notes_05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_05/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on functions of random variables and vectors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #6</title>
+      <link>/resources/notes_06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_06/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on second-moment characterization of random variables and vectors, and second-moment (SM) and first-order second-moment (FOSM) propagation of uncertainty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #7</title>
+      <link>/resources/notes_07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_07/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on conditional second-moment analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #8</title>
+      <link>/resources/notes_08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_08/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on selected distribution models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief Notes #9</title>
+      <link>/resources/notes_09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/notes_09/data.json</guid>
+      <description>&lt;p&gt;Lecture notes on point and interval estimation of distribution parameters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../../pages/calendar/index.html&#34;&gt;calendar&lt;/a&gt; section shows when each of these topics was discussed in class.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;NOTES&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;TOPICS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Events and their probability (&lt;a href=&#34;../../resources/notes_01/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Random variables: discrete distributions (&lt;a href=&#34;../../resources/notes_02/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;3&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Random variables: continuous distributions (&lt;a href=&#34;../../resources/notes_03/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;4&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Random vectors (&lt;a href=&#34;../../resources/notes_04/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;5&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Functions of random variables and vectors (&lt;a href=&#34;../../resources/notes_05/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;6&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Second-moment characterization of random variables and vectors; second-moment (SM) and first-order second-moment (FOSM) propagation of uncertainty (&lt;a href=&#34;../../resources/notes_06/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;7&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Conditional second-moment analysis (&lt;a href=&#34;../../resources/notes_07/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

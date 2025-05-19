@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/exams/data.json</guid>
+      <description>&lt;p&gt;The five short quizzes and the final exam from the class are presented here.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAMS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Mini-quiz 1 (&lt;a href=&#34;../../resources/mini_quiz_1/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Mini-quiz 2 (&lt;a href=&#34;../../resources/mini_quiz_2/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Mini-quiz 3 (&lt;a href=&#34;../../resources/mini_quiz_3/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Mini-quiz 4 (&lt;a href=&#34;../../resources/mini_quiz_4/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Mini-quiz 5 (&lt;a href=&#34;../../resources/mini_quiz_5/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Final exam (&lt;a href=&#34;../../resources/final_exam/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Final Exam</title>
+      <link>/resources/final_exam/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_exam/data.json</guid>
+      <description>&lt;p&gt;Final exam on uncertainty in engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mini-Quiz #1</title>
+      <link>/resources/mini_quiz_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mini_quiz_1/data.json</guid>
+      <description>&lt;p&gt;Quiz on uncertainty in engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mini-Quiz #1</title>
+      <link>/resources/mini_quiz_5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mini_quiz_5/data.json</guid>
+      <description>&lt;p&gt;Quiz on uncertainty in engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mini-Quiz #2</title>
+      <link>/resources/mini_quiz_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mini_quiz_2/data.json</guid>
+      <description>&lt;p&gt;Quiz on uncertainty in engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mini-Quiz #3</title>
+      <link>/resources/mini_quiz_3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mini_quiz_3/data.json</guid>
+      <description>&lt;p&gt;Quiz on uncertainty in engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mini-Quiz #4</title>
+      <link>/resources/mini_quiz_4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mini_quiz_4/data.json</guid>
+      <description>&lt;p&gt;Quiz on uncertainty in engineering.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
