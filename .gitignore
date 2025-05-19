@@ -1,0 +1,12 @@
+# Python virtual environments
+quant-env/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
